@@ -1,0 +1,19 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "Mateus",
+            "age": 25
+        },
+        {
+            "id": 2,
+            "nama": "Lais",
+            "age": 23
+        },
+        {
+            "id": 3,
+            "name": "Benjamin",
+            "age": 0.6
+        }
+    ]
+}
