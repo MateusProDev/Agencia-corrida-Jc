@@ -1,0 +1,21 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.apiData{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.apiBox{
+    width: 500px;
+    margin: auto;
+}
+.apiBox ul{
+    padding: 0;
+}
+.apiBox li{
+    display: block;
+}

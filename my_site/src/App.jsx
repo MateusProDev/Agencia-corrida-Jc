@@ -1,19 +1,16 @@
-import React from 'react'
+// NOTE: App.jsx
+import React from 'react';
 import Header from './components/Header';
-import SectionUm from './components/SectionUm';
-import SectionTwo from './components/SectionTwo';
+import ApiData from './components/ApiData';
 
-
+// NOTE: Meu App
 const App = () => {
-  return (
-    <>
-      <Header />
-      <main>
-        <SectionUm />
-        <SectionTwo />
-      </main>
-    </>
-  )
+    return (
+        <>
+            <Header />
+            <ApiData />
+        </>
+    );
 }
 
 export default App;
