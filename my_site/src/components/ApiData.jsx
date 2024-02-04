@@ -97,7 +97,7 @@ function ApiData() {
     return (
         <div className='apiData'>
             <div className='apiBox'>
-            <h1>Lista de Produtos</h1>
+            <h1>Comentarios</h1>
             <ul>
                 {products.map((product) => (
                     <li key={product.id}>
