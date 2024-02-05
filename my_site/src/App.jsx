@@ -12,7 +12,7 @@ const Home = () => <div>
 </div>;
 const About = () => 
 <div>
-  
+  About
 </div>;
 const Contact = () => <div>Contact</div>;
 const Avaliações = () => <div>

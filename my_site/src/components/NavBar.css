@@ -28,7 +28,7 @@ body{
   flex-direction: column; /* Para centralizar verticalmente */
   align-items: center;
   margin: 0;
-  width: 70px;
+  width: 95px;
   overflow: hidden; /* Evita que o texto ultrapasse o tamanho do li */
 }
 
@@ -57,6 +57,7 @@ body{
 .social-links-icon{
     display: flex;
     padding: 0;
+    width: 150px;
 }
 
 
@@ -101,19 +102,17 @@ body{
     }
     .nav-links{
         display: none;
-        margin-left: 20px;
     }
     .navbar li {
       display: flex;
-      width: 85px;
     }
     .navbar li a {
       text-align: left;
-      width: 80px;
+      width: 50px;
     }
     .nav-links-mobile{
         display: block;
-        margin: 20px 0 0 -20px;
+        margin: 20px 0 0 -40px;
         text-align: center;
     }
     .nav-links-mobile li{
