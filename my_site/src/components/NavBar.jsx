@@ -13,7 +13,7 @@ const NavBar = () => {
   return (
     <nav className={`navbar ${isMenuOpen ? 'open' : ''}`}>
       <div className="logo-container">
-        <img src="./img/logo.png" alt="Logo" className="logo" />
+        <img src="./img/Logo.png" alt="Logo" className="logo" />
       </div>
       <div className="menu-icon" onClick={handleMenuToggle}>
         <span className={`menu-line ${isMenuOpen ? 'open' : ''}`}></span>
