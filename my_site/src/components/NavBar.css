@@ -112,12 +112,12 @@ body{
     }
     .nav-links-mobile{
         display: block;
-        margin: 20px 0 0 -40px;
+        margin: 20px 0 0 -70px;
         text-align: center;
     }
     .nav-links-mobile li{
-        width: 90px;
-        height: 30px;
+        width: 150px;
+        height: 20px;
         font-size: 22px;
         font-family: Helvetica, sans-serif;
         padding: 20px 5px;

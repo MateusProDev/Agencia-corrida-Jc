@@ -45,6 +45,9 @@ const NavBar = () => {
           <li>
             <Link to="/contact">Contato</Link>
           </li>
+          <li>
+            <Link to="/avaliações">Avaliações</Link>
+          </li>
         </ul>
         <ul className='social-links-icon'>
           <li>
